@@ -1,0 +1,6 @@
+{
+  "name": "لقمه هنا | LOKMA HENA",
+  "description": "لقمه هنا — برجر، بيتزا، كريب وأكلات سريعة في المرج، القاهرة. اطلب أونلاين عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
